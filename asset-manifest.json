@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-dev_add_delete/static/css/main.a8a10f8e.css",
-    "main.js": "/react-dev_add_delete/static/js/main.25308445.js",
-    "index.html": "/react-dev_add_delete/index.html",
-    "main.a8a10f8e.css.map": "/react-dev_add_delete/static/css/main.a8a10f8e.css.map",
-    "main.25308445.js.map": "/react-dev_add_delete/static/js/main.25308445.js.map"
+    "main.css": "/react_add-employees/static/css/main.a8a10f8e.css",
+    "main.js": "/react_add-employees/static/js/main.25308445.js",
+    "index.html": "/react_add-employees/index.html",
+    "main.a8a10f8e.css.map": "/react_add-employees/static/css/main.a8a10f8e.css.map",
+    "main.25308445.js.map": "/react_add-employees/static/js/main.25308445.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a10f8e.css",
